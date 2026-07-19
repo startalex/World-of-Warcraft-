@@ -1,6 +1,6 @@
 Copyright (c) 2026 Startale. All Rights Reserved.
 
-This software and all associated files (the "Addon") are the sole property of the author (Ammar). 
+This software and all associated files (the "Addon") are the sole property of the author (startale). 
 
 Permission is hereby granted to individuals to download, install, and use this Addon strictly for personal, non-commercial entertainment within the World of Warcraft game client.
 
