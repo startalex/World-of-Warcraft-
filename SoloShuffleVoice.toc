@@ -1,0 +1,15 @@
+## Interface: 120000
+## Title: Solo Shuffle Voice
+## Notes: Automated voice coordination for Solo Shuffle arena.
+## Author: Startale
+## Version: 1.0
+## X-License: All Rights Reserved
+## Twitch: startaletv5
+
+Utils.lua
+Network.lua
+Voice.lua
+Arena.lua
+UI.lua
+Core.lua
+

@@ -1,0 +1,13 @@
+Copyright (c) 2026 Ammar. All Rights Reserved.
+
+This software and all associated files (the "Addon") are the sole property of the author (Ammar). 
+
+Permission is hereby granted to individuals to download, install, and use this Addon strictly for personal, non-commercial entertainment within the World of Warcraft game client.
+
+You may NOT:
+1. Modify, alter, or create derivative works based upon this Addon's source code.
+2. Redistribute, re-upload, mirror, or publish this Addon or any of its modified variants to any website, platform, or addon manager without the express written permission of the author.
+3. Use this Addon or its code for any commercial purposes or financial gain.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+
